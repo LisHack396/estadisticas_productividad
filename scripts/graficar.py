@@ -11,6 +11,7 @@ values_pie = dataset['STATUS'].value_counts()
 labels_pie = dataset['STATUS'].value_counts().index
 
 def graficar():
+    """Graficar las estadisticas de productividad"""
     plt.style.use('ggplot')
     fig = plt.figure('Estadisticas de productividad', figsize=(10, 6))
     axes = fig.subplots(nrows=2, ncols=2)
