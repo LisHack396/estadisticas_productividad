@@ -228,7 +228,6 @@ PRDA.S1CCCZP,1981.03,-2.7,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S1CCCZP,1982.03,-0.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Manufacturing,Percentage Change
 PRDA.S1CCCZP,1983.03,-13.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Manufacturing,Percentage Change
 PRDA.S1CCCZP,1984.03,-8.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Manufacturing,Percentage Change
-PRDA.S1CCCZP,1985.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Manufacturing,Percentage Change
 PRDA.S1CCCZP,1986.03,-10.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Manufacturing,Percentage Change
 PRDA.S1CCCZP,1987.03,-4.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Manufacturing,Percentage Change
 PRDA.S1CCCZP,1988.03,-7.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Manufacturing,Percentage Change
@@ -970,7 +969,6 @@ PRDA.S1CKK1P,2011.03,-0.2,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S1CKK1P,2012.03,-0.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
 PRDA.S1CKK1P,2013.03,-1.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
 PRDA.S1CKK1P,2014.03,-2.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
-PRDA.S1CKK1P,2015.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
 PRDA.S1CKK1P,2016.03,-4.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
 PRDA.S1CKK1P,2017.03,-5.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
 PRDA.S1CKK1P,2018.03,-0.1,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
@@ -1078,7 +1076,6 @@ PRDA.S1CMFZI,2021.03,769.0,REVISED,Index,0,Productivity Statistics - PRD,Product
 PRDA.S1CMFZI,2022.03,758.0,PROVISIONAL,Index,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Index
 PRDA.S1CMFZP,1979.03,-1.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
 PRDA.S1CMFZP,1980.03,1.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
-PRDA.S1CMFZP,1981.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
 PRDA.S1CMFZP,1982.03,0.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
 PRDA.S1CMFZP,1983.03,-5.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
 PRDA.S1CMFZP,1984.03,-2.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
@@ -1094,11 +1091,9 @@ PRDA.S1CMFZP,1993.03,0.8,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1CMFZP,1994.03,6.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
 PRDA.S1CMFZP,1995.03,3.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
 PRDA.S1CMFZP,1996.03,1.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
-PRDA.S1CMFZP,1997.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
 PRDA.S1CMFZP,1998.03,-0.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
 PRDA.S1CMFZP,1999.03,-2.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
 PRDA.S1CMFZP,2000.03,4.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
-PRDA.S1CMFZP,2001.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
 PRDA.S1CMFZP,2002.03,-0.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
 PRDA.S1CMFZP,2003.03,1.2,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
 PRDA.S1CMFZP,2004.03,0.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Former Measured Sector,Percentage Change
@@ -1313,13 +1308,11 @@ PRDA.S1CQQ1P,2000.03,-0.8,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S1CQQ1P,2001.03,0.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
 PRDA.S1CQQ1P,2002.03,-2.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
 PRDA.S1CQQ1P,2003.03,-3.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
-PRDA.S1CQQ1P,2004.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
 PRDA.S1CQQ1P,2005.03,-3.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
 PRDA.S1CQQ1P,2006.03,-0.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
 PRDA.S1CQQ1P,2007.03,-3.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
 PRDA.S1CQQ1P,2008.03,-0.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
 PRDA.S1CQQ1P,2009.03,1.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
-PRDA.S1CQQ1P,2010.03,0.0,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
 PRDA.S1CQQ1P,2011.03,-5.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
 PRDA.S1CQQ1P,2012.03,-2.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
 PRDA.S1CQQ1P,2013.03,1.2,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Health Care and Social Assistance,Percentage Change
@@ -1365,7 +1358,6 @@ PRDA.S1CRS1P,1999.03,1.8,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1CRS1P,2000.03,-0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Arts and Recreation Services,Percentage Change
 PRDA.S1CRS1P,2001.03,-4.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Arts and Recreation Services,Percentage Change
 PRDA.S1CRS1P,2002.03,0.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Arts and Recreation Services,Percentage Change
-PRDA.S1CRS1P,2003.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Arts and Recreation Services,Percentage Change
 PRDA.S1CRS1P,2004.03,-2.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Arts and Recreation Services,Percentage Change
 PRDA.S1CRS1P,2005.03,-5.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Arts and Recreation Services,Percentage Change
 PRDA.S1CRS1P,2006.03,-1.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Arts and Recreation Services,Percentage Change
@@ -1518,7 +1510,6 @@ PRDA.S1CZGZP,2010.03,-0.7,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S1CZGZP,2011.03,2.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Goods producing industries,Percentage Change
 PRDA.S1CZGZP,2012.03,-2.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Goods producing industries,Percentage Change
 PRDA.S1CZGZP,2013.03,0.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Goods producing industries,Percentage Change
-PRDA.S1CZGZP,2014.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Goods producing industries,Percentage Change
 PRDA.S1CZGZP,2015.03,1.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Goods producing industries,Percentage Change
 PRDA.S1CZGZP,2016.03,1.6,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Goods producing industries,Percentage Change
 PRDA.S1CZGZP,2017.03,1.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Goods producing industries,Percentage Change
@@ -1699,7 +1690,6 @@ PRDA.S1CZSZP,2013.03,-0.4,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S1CZSZP,2014.03,0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Service industries,Percentage Change
 PRDA.S1CZSZP,2015.03,0.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Service industries,Percentage Change
 PRDA.S1CZSZP,2016.03,1.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Service industries,Percentage Change
-PRDA.S1CZSZP,2017.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Service industries,Percentage Change
 PRDA.S1CZSZP,2018.03,0.2,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Service industries,Percentage Change
 PRDA.S1CZSZP,2019.03,-0.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Service industries,Percentage Change
 PRDA.S1CZSZP,2020.03,-0.8,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Capital,Service industries,Percentage Change
@@ -1928,7 +1918,6 @@ PRDA.S1LCCZI,2019.03,1746.0,REVISED,Index,0,Productivity Statistics - PRD,Produc
 PRDA.S1LCCZI,2020.03,1736.0,REVISED,Index,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Manufacturing,Index
 PRDA.S1LCCZI,2021.03,1778.0,REVISED,Index,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Manufacturing,Index
 PRDA.S1LCCZI,2022.03,1833.0,PROVISIONAL,Index,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Manufacturing,Index
-PRDA.S1LCCZP,1979.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Manufacturing,Percentage Change
 PRDA.S1LCCZP,1980.03,-0.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Manufacturing,Percentage Change
 PRDA.S1LCCZP,1981.03,1.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Manufacturing,Percentage Change
 PRDA.S1LCCZP,1982.03,6.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Manufacturing,Percentage Change
@@ -2291,7 +2280,6 @@ PRDA.S1LGH1P,1982.03,2.2,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1LGH1P,1983.03,-5.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Retail Trade,Percentage Change
 PRDA.S1LGH1P,1984.03,2.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Retail Trade,Percentage Change
 PRDA.S1LGH1P,1985.03,-4.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Retail Trade,Percentage Change
-PRDA.S1LGH1P,1986.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Retail Trade,Percentage Change
 PRDA.S1LGH1P,1987.03,-0.9,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Retail Trade,Percentage Change
 PRDA.S1LGH1P,1988.03,4.0,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Retail Trade,Percentage Change
 PRDA.S1LGH1P,1989.03,3.3,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Retail Trade,Percentage Change
@@ -2398,7 +2386,6 @@ PRDA.S1LGH2P,2000.03,2.5,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1LGH2P,2001.03,-1.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
 PRDA.S1LGH2P,2002.03,-3.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
 PRDA.S1LGH2P,2003.03,0.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
-PRDA.S1LGH2P,2004.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
 PRDA.S1LGH2P,2005.03,6.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
 PRDA.S1LGH2P,2006.03,0.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
 PRDA.S1LGH2P,2007.03,1.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
@@ -2414,7 +2401,6 @@ PRDA.S1LGH2P,2016.03,0.4,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1LGH2P,2017.03,2.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
 PRDA.S1LGH2P,2018.03,0.9,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
 PRDA.S1LGH2P,2019.03,-2.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
-PRDA.S1LGH2P,2020.03,0.0,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
 PRDA.S1LGH2P,2021.03,12.6,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
 PRDA.S1LGH2P,2022.03,7.8,PROVISIONAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Accommodation and Food Services,Percentage Change
 PRDA.S1LII1I,1978.03,1000.0,FINAL,Index,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Index
@@ -2481,12 +2467,10 @@ PRDA.S1LII1P,1994.03,8.6,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1LII1P,1995.03,8.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Percentage Change
 PRDA.S1LII1P,1996.03,7.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Percentage Change
 PRDA.S1LII1P,1997.03,-1.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Percentage Change
-PRDA.S1LII1P,1998.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Percentage Change
 PRDA.S1LII1P,1999.03,5.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Percentage Change
 PRDA.S1LII1P,2000.03,2.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Percentage Change
 PRDA.S1LII1P,2001.03,1.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Percentage Change
 PRDA.S1LII1P,2002.03,3.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Percentage Change
-PRDA.S1LII1P,2003.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Percentage Change
 PRDA.S1LII1P,2004.03,0.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Percentage Change
 PRDA.S1LII1P,2005.03,3.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Percentage Change
 PRDA.S1LII1P,2006.03,2.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Transport, Postal and Warehousing",Percentage Change
@@ -2668,8 +2652,6 @@ PRDA.S1LKK1P,2003.03,2.1,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1LKK1P,2004.03,5.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Financial and Insurance Services,Percentage Change
 PRDA.S1LKK1P,2005.03,5.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Financial and Insurance Services,Percentage Change
 PRDA.S1LKK1P,2006.03,2.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Financial and Insurance Services,Percentage Change
-PRDA.S1LKK1P,2007.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Financial and Insurance Services,Percentage Change
-PRDA.S1LKK1P,2008.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Financial and Insurance Services,Percentage Change
 PRDA.S1LKK1P,2009.03,4.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Financial and Insurance Services,Percentage Change
 PRDA.S1LKK1P,2010.03,6.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Financial and Insurance Services,Percentage Change
 PRDA.S1LKK1P,2011.03,-3.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Financial and Insurance Services,Percentage Change
@@ -2853,7 +2835,6 @@ PRDA.S1LMN1I,2019.03,1084.0,FINAL,Index,0,Productivity Statistics - PRD,Producti
 PRDA.S1LMN1I,2020.03,1137.0,REVISED,Index,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Professional, Scientific and Technical Services",Index
 PRDA.S1LMN1I,2021.03,1142.0,REVISED,Index,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Professional, Scientific and Technical Services",Index
 PRDA.S1LMN1I,2022.03,1199.0,PROVISIONAL,Index,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Professional, Scientific and Technical Services",Index
-PRDA.S1LMN1P,1997.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Professional, Scientific and Technical Services",Percentage Change
 PRDA.S1LMN1P,1998.03,-4.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Professional, Scientific and Technical Services",Percentage Change
 PRDA.S1LMN1P,1999.03,-0.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Professional, Scientific and Technical Services",Percentage Change
 PRDA.S1LMN1P,2000.03,6.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,"Professional, Scientific and Technical Services",Percentage Change
@@ -3022,7 +3003,6 @@ PRDA.S1LQQ1P,2003.03,-1.7,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S1LQQ1P,2004.03,3.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Health Care and Social Assistance,Percentage Change
 PRDA.S1LQQ1P,2005.03,2.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Health Care and Social Assistance,Percentage Change
 PRDA.S1LQQ1P,2006.03,3.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Health Care and Social Assistance,Percentage Change
-PRDA.S1LQQ1P,2007.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Health Care and Social Assistance,Percentage Change
 PRDA.S1LQQ1P,2008.03,1.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Health Care and Social Assistance,Percentage Change
 PRDA.S1LQQ1P,2009.03,-1.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Health Care and Social Assistance,Percentage Change
 PRDA.S1LQQ1P,2010.03,0.4,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Health Care and Social Assistance,Percentage Change
@@ -3201,7 +3181,6 @@ PRDA.S1LZGZP,1987.03,2.7,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1LZGZP,1988.03,3.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S1LZGZP,1989.03,4.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S1LZGZP,1990.03,4.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
-PRDA.S1LZGZP,1991.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S1LZGZP,1992.03,2.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S1LZGZP,1993.03,2.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S1LZGZP,1994.03,2.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
@@ -3222,10 +3201,8 @@ PRDA.S1LZGZP,2008.03,0.8,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1LZGZP,2009.03,-4.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S1LZGZP,2010.03,6.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S1LZGZP,2011.03,1.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
-PRDA.S1LZGZP,2012.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S1LZGZP,2013.03,0.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S1LZGZP,2014.03,-1.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
-PRDA.S1LZGZP,2015.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S1LZGZP,2016.03,1.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S1LZGZP,2017.03,0.2,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S1LZGZP,2018.03,0.8,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
@@ -3288,7 +3265,6 @@ PRDA.S1LZPZP,1985.03,6.7,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1LZPZP,1986.03,23.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S1LZPZP,1987.03,0.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S1LZPZP,1988.03,17.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
-PRDA.S1LZPZP,1989.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S1LZPZP,1990.03,-3.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S1LZPZP,1991.03,24.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S1LZPZP,1992.03,3.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
@@ -3837,7 +3813,6 @@ PRDA.S1MEE1P,2000.03,8.6,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1MEE1P,2001.03,-3.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Construction,Percentage Change
 PRDA.S1MEE1P,2002.03,1.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Construction,Percentage Change
 PRDA.S1MEE1P,2003.03,2.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Construction,Percentage Change
-PRDA.S1MEE1P,2004.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Construction,Percentage Change
 PRDA.S1MEE1P,2005.03,0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Construction,Percentage Change
 PRDA.S1MEE1P,2006.03,-4.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Construction,Percentage Change
 PRDA.S1MEE1P,2007.03,1.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Construction,Percentage Change
@@ -4425,7 +4400,6 @@ PRDA.S1MLL1P,2001.03,3.2,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1MLL1P,2002.03,4.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,"Rental, Hiring and Real Estate Services",Percentage Change
 PRDA.S1MLL1P,2003.03,6.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,"Rental, Hiring and Real Estate Services",Percentage Change
 PRDA.S1MLL1P,2004.03,0.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,"Rental, Hiring and Real Estate Services",Percentage Change
-PRDA.S1MLL1P,2005.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,"Rental, Hiring and Real Estate Services",Percentage Change
 PRDA.S1MLL1P,2006.03,2.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,"Rental, Hiring and Real Estate Services",Percentage Change
 PRDA.S1MLL1P,2007.03,2.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,"Rental, Hiring and Real Estate Services",Percentage Change
 PRDA.S1MLL1P,2008.03,-2.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,"Rental, Hiring and Real Estate Services",Percentage Change
@@ -4530,7 +4504,6 @@ PRDA.S1MMFZP,2017.03,-0.2,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S1MMFZP,2018.03,0.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Former Measured Sector,Percentage Change
 PRDA.S1MMFZP,2019.03,1.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Former Measured Sector,Percentage Change
 PRDA.S1MMFZP,2020.03,0.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Former Measured Sector,Percentage Change
-PRDA.S1MMFZP,2021.03,0.0,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Former Measured Sector,Percentage Change
 PRDA.S1MMFZP,2022.03,0.8,PROVISIONAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Former Measured Sector,Percentage Change
 PRDA.S1MMN1I,1996.03,1000.0,FINAL,Index,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,"Professional, Scientific and Technical Services",Index
 PRDA.S1MMN1I,1997.03,1015.0,FINAL,Index,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,"Professional, Scientific and Technical Services",Index
@@ -4784,7 +4757,6 @@ PRDA.S1MRS1P,2006.03,0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1MRS1P,2007.03,-1.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Arts and Recreation Services,Percentage Change
 PRDA.S1MRS1P,2008.03,-1.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Arts and Recreation Services,Percentage Change
 PRDA.S1MRS1P,2009.03,-6.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Arts and Recreation Services,Percentage Change
-PRDA.S1MRS1P,2010.03,0.0,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Arts and Recreation Services,Percentage Change
 PRDA.S1MRS1P,2011.03,-5.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Arts and Recreation Services,Percentage Change
 PRDA.S1MRS1P,2012.03,-0.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Arts and Recreation Services,Percentage Change
 PRDA.S1MRS1P,2013.03,4.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Arts and Recreation Services,Percentage Change
@@ -4904,7 +4876,6 @@ PRDA.S1MZGZP,1984.03,1.4,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1MZGZP,1985.03,0.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Goods producing industries,Percentage Change
 PRDA.S1MZGZP,1986.03,-5.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Goods producing industries,Percentage Change
 PRDA.S1MZGZP,1987.03,0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Goods producing industries,Percentage Change
-PRDA.S1MZGZP,1988.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Goods producing industries,Percentage Change
 PRDA.S1MZGZP,1989.03,1.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Goods producing industries,Percentage Change
 PRDA.S1MZGZP,1990.03,0.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Goods producing industries,Percentage Change
 PRDA.S1MZGZP,1991.03,-2.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Goods producing industries,Percentage Change
@@ -5092,7 +5063,6 @@ PRDA.S1MZSZP,1994.03,4.9,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S1MZSZP,1995.03,1.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Service industries,Percentage Change
 PRDA.S1MZSZP,1996.03,1.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Service industries,Percentage Change
 PRDA.S1MZSZP,1997.03,-0.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Service industries,Percentage Change
-PRDA.S1MZSZP,1998.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Service industries,Percentage Change
 PRDA.S1MZSZP,1999.03,1.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Service industries,Percentage Change
 PRDA.S1MZSZP,2000.03,5.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Service industries,Percentage Change
 PRDA.S1MZSZP,2001.03,1.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Indexes - Industry Level (ANZSIC06),Multifactor,Service industries,Percentage Change
@@ -5804,7 +5774,6 @@ PRDA.S2OGH2P,1994.03,4.6,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S2OGH2P,1995.03,8.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Accommodation and Food Services,Percentage Change
 PRDA.S2OGH2P,1996.03,4.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Accommodation and Food Services,Percentage Change
 PRDA.S2OGH2P,1997.03,-0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Accommodation and Food Services,Percentage Change
-PRDA.S2OGH2P,1998.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Accommodation and Food Services,Percentage Change
 PRDA.S2OGH2P,1999.03,-1.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Accommodation and Food Services,Percentage Change
 PRDA.S2OGH2P,2000.03,5.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Accommodation and Food Services,Percentage Change
 PRDA.S2OGH2P,2001.03,1.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Accommodation and Food Services,Percentage Change
@@ -6335,7 +6304,6 @@ PRDA.S2OMN2P,2010.03,-4.3,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S2OMN2P,2011.03,11.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Administrative and Support Services,Percentage Change
 PRDA.S2OMN2P,2012.03,4.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Administrative and Support Services,Percentage Change
 PRDA.S2OMN2P,2013.03,-2.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Administrative and Support Services,Percentage Change
-PRDA.S2OMN2P,2014.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Administrative and Support Services,Percentage Change
 PRDA.S2OMN2P,2015.03,3.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Administrative and Support Services,Percentage Change
 PRDA.S2OMN2P,2016.03,6.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Administrative and Support Services,Percentage Change
 PRDA.S2OMN2P,2017.03,7.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Administrative and Support Services,Percentage Change
@@ -6386,7 +6354,6 @@ PRDA.S2OPP1P,2008.03,0.9,REVISED,Percent,0,Productivity Statistics - PRD,Product
 PRDA.S2OPP1P,2009.03,0.5,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Education and Training,Percentage Change
 PRDA.S2OPP1P,2010.03,2.3,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Education and Training,Percentage Change
 PRDA.S2OPP1P,2011.03,0.5,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Education and Training,Percentage Change
-PRDA.S2OPP1P,2012.03,0.0,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Education and Training,Percentage Change
 PRDA.S2OPP1P,2013.03,0.1,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Education and Training,Percentage Change
 PRDA.S2OPP1P,2014.03,-0.2,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Education and Training,Percentage Change
 PRDA.S2OPP1P,2015.03,0.6,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Education and Training,Percentage Change
@@ -6487,7 +6454,6 @@ PRDA.S2ORS1P,2003.03,6.2,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S2ORS1P,2004.03,4.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Arts and Recreation Services,Percentage Change
 PRDA.S2ORS1P,2005.03,-0.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Arts and Recreation Services,Percentage Change
 PRDA.S2ORS1P,2006.03,0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Arts and Recreation Services,Percentage Change
-PRDA.S2ORS1P,2007.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Arts and Recreation Services,Percentage Change
 PRDA.S2ORS1P,2008.03,1.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Arts and Recreation Services,Percentage Change
 PRDA.S2ORS1P,2009.03,-4.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Arts and Recreation Services,Percentage Change
 PRDA.S2ORS1P,2010.03,2.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Arts and Recreation Services,Percentage Change
@@ -6709,7 +6675,6 @@ PRDA.S2OZPZP,1994.03,14.8,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S2OZPZP,1995.03,-1.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Primary industries,Percentage Change
 PRDA.S2OZPZP,1996.03,6.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Primary industries,Percentage Change
 PRDA.S2OZPZP,1997.03,11.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Primary industries,Percentage Change
-PRDA.S2OZPZP,1998.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Primary industries,Percentage Change
 PRDA.S2OZPZP,1999.03,-3.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Primary industries,Percentage Change
 PRDA.S2OZPZP,2000.03,3.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Primary industries,Percentage Change
 PRDA.S2OZPZP,2001.03,3.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Primary industries,Percentage Change
@@ -6781,7 +6746,6 @@ PRDA.S2OZSZI,2021.03,3502.0,REVISED,Index,0,Productivity Statistics - PRD,Produc
 PRDA.S2OZSZI,2022.03,3748.0,PROVISIONAL,Index,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Service industries,Index
 PRDA.S2OZSZP,1979.03,2.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Service industries,Percentage Change
 PRDA.S2OZSZP,1980.03,1.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Service industries,Percentage Change
-PRDA.S2OZSZP,1981.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Service industries,Percentage Change
 PRDA.S2OZSZP,1982.03,4.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Service industries,Percentage Change
 PRDA.S2OZSZP,1983.03,-1.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Service industries,Percentage Change
 PRDA.S2OZSZP,1984.03,6.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Output Series - Industry Level (ANZSIC06),Output,Service industries,Percentage Change
@@ -7141,8 +7105,6 @@ PRDA.S3CDD1P,1981.03,1.6,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3CDD1P,1982.03,1.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3CDD1P,1983.03,0.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3CDD1P,1984.03,1.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,"Electricity, Gas, Water and Waste Services",Percentage Change
-PRDA.S3CDD1P,1985.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,"Electricity, Gas, Water and Waste Services",Percentage Change
-PRDA.S3CDD1P,1986.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3CDD1P,1987.03,3.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3CDD1P,1988.03,2.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3CDD1P,1989.03,2.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,"Electricity, Gas, Water and Waste Services",Percentage Change
@@ -7772,7 +7734,6 @@ PRDA.S3CKK1P,1989.03,8.4,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3CKK1P,1990.03,0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
 PRDA.S3CKK1P,1991.03,1.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
 PRDA.S3CKK1P,1992.03,-2.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
-PRDA.S3CKK1P,1993.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
 PRDA.S3CKK1P,1994.03,-0.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
 PRDA.S3CKK1P,1995.03,7.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
 PRDA.S3CKK1P,1996.03,-1.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Capital,Financial and Insurance Services,Percentage Change
@@ -9230,7 +9191,6 @@ PRDA.S3LCCZP,1996.03,3.6,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3LCCZP,1997.03,-0.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Manufacturing,Percentage Change
 PRDA.S3LCCZP,1998.03,-4.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Manufacturing,Percentage Change
 PRDA.S3LCCZP,1999.03,-4.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Manufacturing,Percentage Change
-PRDA.S3LCCZP,2000.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Manufacturing,Percentage Change
 PRDA.S3LCCZP,2001.03,1.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Manufacturing,Percentage Change
 PRDA.S3LCCZP,2002.03,1.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Manufacturing,Percentage Change
 PRDA.S3LCCZP,2003.03,3.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Manufacturing,Percentage Change
@@ -9512,7 +9472,6 @@ PRDA.S3LFF1P,2011.03,1.3,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3LFF1P,2012.03,-0.4,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Wholesale Trade,Percentage Change
 PRDA.S3LFF1P,2013.03,-1.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Wholesale Trade,Percentage Change
 PRDA.S3LFF1P,2014.03,0.9,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Wholesale Trade,Percentage Change
-PRDA.S3LFF1P,2015.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Wholesale Trade,Percentage Change
 PRDA.S3LFF1P,2016.03,1.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Wholesale Trade,Percentage Change
 PRDA.S3LFF1P,2017.03,4.1,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Wholesale Trade,Percentage Change
 PRDA.S3LFF1P,2018.03,1.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Wholesale Trade,Percentage Change
@@ -9841,7 +9800,6 @@ PRDA.S3LJJ1P,1984.03,-0.5,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S3LJJ1P,1985.03,2.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Information Media and Telecommunication,Percentage Change
 PRDA.S3LJJ1P,1986.03,11.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Information Media and Telecommunication,Percentage Change
 PRDA.S3LJJ1P,1987.03,4.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Information Media and Telecommunication,Percentage Change
-PRDA.S3LJJ1P,1988.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Information Media and Telecommunication,Percentage Change
 PRDA.S3LJJ1P,1989.03,-5.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Information Media and Telecommunication,Percentage Change
 PRDA.S3LJJ1P,1990.03,-10.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Information Media and Telecommunication,Percentage Change
 PRDA.S3LJJ1P,1991.03,-6.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Information Media and Telecommunication,Percentage Change
@@ -10498,11 +10456,9 @@ PRDA.S3LZGZP,2003.03,4.3,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3LZGZP,2004.03,3.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S3LZGZP,2005.03,4.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S3LZGZP,2006.03,1.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
-PRDA.S3LZGZP,2007.03,0.0,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S3LZGZP,2008.03,1.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S3LZGZP,2009.03,-2.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S3LZGZP,2010.03,-7.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
-PRDA.S3LZGZP,2011.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S3LZGZP,2012.03,-0.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S3LZGZP,2013.03,1.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
 PRDA.S3LZGZP,2014.03,2.8,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Goods producing industries,Percentage Change
@@ -10560,7 +10516,6 @@ PRDA.S3LZPZI,2020.03,771.0,REVISED,Index,0,Productivity Statistics - PRD,Product
 PRDA.S3LZPZI,2021.03,784.0,REVISED,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Index
 PRDA.S3LZPZI,2022.03,816.0,PROVISIONAL,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Index
 PRDA.S3LZPZP,1979.03,-0.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
-PRDA.S3LZPZP,1980.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S3LZPZP,1981.03,-0.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S3LZPZP,1982.03,3.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S3LZPZP,1983.03,3.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
@@ -10593,7 +10548,6 @@ PRDA.S3LZPZP,2009.03,-0.2,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S3LZPZP,2010.03,-1.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S3LZPZP,2011.03,0.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S3LZPZP,2012.03,-0.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
-PRDA.S3LZPZP,2013.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S3LZPZP,2014.03,2.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S3LZPZP,2015.03,0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
 PRDA.S3LZPZP,2016.03,-2.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Primary industries,Percentage Change
@@ -10648,7 +10602,6 @@ PRDA.S3LZSZI,2019.03,1985.0,REVISED,Index,0,Productivity Statistics - PRD,Produc
 PRDA.S3LZSZI,2020.03,1998.0,REVISED,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Service industries,Index
 PRDA.S3LZSZI,2021.03,1959.0,REVISED,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Service industries,Index
 PRDA.S3LZSZI,2022.03,2025.0,PROVISIONAL,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Service industries,Index
-PRDA.S3LZSZP,1979.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Service industries,Percentage Change
 PRDA.S3LZSZP,1980.03,2.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Service industries,Percentage Change
 PRDA.S3LZSZP,1981.03,-0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Service industries,Percentage Change
 PRDA.S3LZSZP,1982.03,2.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Labour,Service industries,Percentage Change
@@ -10745,7 +10698,6 @@ PRDA.S3RAAZP,1983.03,-0.9,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S3RAAZP,1984.03,0.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3RAAZP,1985.03,1.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3RAAZP,1986.03,0.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Agriculture, Forestry and Fishing",Percentage Change
-PRDA.S3RAAZP,1987.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3RAAZP,1988.03,4.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3RAAZP,1989.03,2.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3RAAZP,1990.03,4.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Agriculture, Forestry and Fishing",Percentage Change
@@ -10952,7 +10904,6 @@ PRDA.S3RCCZP,2012.03,1.9,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3RCCZP,2013.03,0.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Manufacturing,Percentage Change
 PRDA.S3RCCZP,2014.03,-0.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Manufacturing,Percentage Change
 PRDA.S3RCCZP,2015.03,-1.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Manufacturing,Percentage Change
-PRDA.S3RCCZP,2016.03,0.0,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Manufacturing,Percentage Change
 PRDA.S3RCCZP,2017.03,-1.0,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Manufacturing,Percentage Change
 PRDA.S3RCCZP,2018.03,-0.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Manufacturing,Percentage Change
 PRDA.S3RCCZP,2019.03,0.5,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Manufacturing,Percentage Change
@@ -11039,7 +10990,6 @@ PRDA.S3RDD1P,2010.03,1.7,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3RDD1P,2011.03,-4.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3RDD1P,2012.03,4.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3RDD1P,2013.03,2.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Electricity, Gas, Water and Waste Services",Percentage Change
-PRDA.S3RDD1P,2014.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3RDD1P,2015.03,-0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3RDD1P,2016.03,1.6,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3RDD1P,2017.03,-1.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),"Electricity, Gas, Water and Waste Services",Percentage Change
@@ -11654,7 +11604,6 @@ PRDA.S3RKK1P,2002.03,7.1,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3RKK1P,2003.03,4.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Financial and Insurance Services,Percentage Change
 PRDA.S3RKK1P,2004.03,6.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Financial and Insurance Services,Percentage Change
 PRDA.S3RKK1P,2005.03,1.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Financial and Insurance Services,Percentage Change
-PRDA.S3RKK1P,2006.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Financial and Insurance Services,Percentage Change
 PRDA.S3RKK1P,2007.03,-2.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Financial and Insurance Services,Percentage Change
 PRDA.S3RKK1P,2008.03,5.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Financial and Insurance Services,Percentage Change
 PRDA.S3RKK1P,2009.03,14.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Financial and Insurance Services,Percentage Change
@@ -11793,7 +11742,6 @@ PRDA.S3RMFZP,1999.03,3.4,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3RMFZP,2000.03,1.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
 PRDA.S3RMFZP,2001.03,1.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
 PRDA.S3RMFZP,2002.03,0.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
-PRDA.S3RMFZP,2003.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
 PRDA.S3RMFZP,2004.03,2.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
 PRDA.S3RMFZP,2005.03,1.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
 PRDA.S3RMFZP,2006.03,3.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
@@ -11807,7 +11755,6 @@ PRDA.S3RMFZP,2013.03,1.7,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3RMFZP,2014.03,0.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
 PRDA.S3RMFZP,2015.03,0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
 PRDA.S3RMFZP,2016.03,1.3,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
-PRDA.S3RMFZP,2017.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
 PRDA.S3RMFZP,2018.03,0.6,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
 PRDA.S3RMFZP,2019.03,0.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
 PRDA.S3RMFZP,2020.03,2.2,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Former Measured Sector,Percentage Change
@@ -11999,7 +11946,6 @@ PRDA.S3RQQ1I,2019.03,1353.0,REVISED,Index,0,Productivity Statistics - PRD,Produc
 PRDA.S3RQQ1I,2020.03,1354.0,REVISED,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Index
 PRDA.S3RQQ1I,2021.03,1317.0,REVISED,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Index
 PRDA.S3RQQ1I,2022.03,1348.0,PROVISIONAL,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Index
-PRDA.S3RQQ1P,1997.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Percentage Change
 PRDA.S3RQQ1P,1998.03,2.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Percentage Change
 PRDA.S3RQQ1P,1999.03,1.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Percentage Change
 PRDA.S3RQQ1P,2000.03,6.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Percentage Change
@@ -12022,7 +11968,6 @@ PRDA.S3RQQ1P,2016.03,-0.8,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S3RQQ1P,2017.03,-1.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Percentage Change
 PRDA.S3RQQ1P,2018.03,-2.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Percentage Change
 PRDA.S3RQQ1P,2019.03,-1.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Percentage Change
-PRDA.S3RQQ1P,2020.03,0.0,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Percentage Change
 PRDA.S3RQQ1P,2021.03,-2.7,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Percentage Change
 PRDA.S3RQQ1P,2022.03,2.4,PROVISIONAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Health Care and Social Assistance,Percentage Change
 PRDA.S3RRS1I,1996.03,1000.0,FINAL,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Arts and Recreation Services,Index
@@ -12075,7 +12020,6 @@ PRDA.S3RRS1P,2016.03,-0.4,FINAL,Percent,0,Productivity Statistics - PRD,Producti
 PRDA.S3RRS1P,2017.03,-2.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Arts and Recreation Services,Percentage Change
 PRDA.S3RRS1P,2018.03,-2.8,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Arts and Recreation Services,Percentage Change
 PRDA.S3RRS1P,2019.03,0.3,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Arts and Recreation Services,Percentage Change
-PRDA.S3RRS1P,2020.03,0.0,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Arts and Recreation Services,Percentage Change
 PRDA.S3RRS1P,2021.03,-0.4,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Arts and Recreation Services,Percentage Change
 PRDA.S3RRS1P,2022.03,7.6,PROVISIONAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Arts and Recreation Services,Percentage Change
 PRDA.S3RRS2I,1996.03,1000.0,FINAL,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Other Services,Index
@@ -12177,7 +12121,6 @@ PRDA.S3RZGZI,2020.03,2774.0,REVISED,Index,0,Productivity Statistics - PRD,Produc
 PRDA.S3RZGZI,2021.03,2780.0,REVISED,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Goods producing industries,Index
 PRDA.S3RZGZI,2022.03,2904.0,PROVISIONAL,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Goods producing industries,Index
 PRDA.S3RZGZP,1979.03,2.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Goods producing industries,Percentage Change
-PRDA.S3RZGZP,1980.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Goods producing industries,Percentage Change
 PRDA.S3RZGZP,1981.03,5.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Goods producing industries,Percentage Change
 PRDA.S3RZGZP,1982.03,4.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Goods producing industries,Percentage Change
 PRDA.S3RZGZP,1983.03,10.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Goods producing industries,Percentage Change
@@ -12293,7 +12236,6 @@ PRDA.S3RZPZP,2003.03,4.7,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3RZPZP,2004.03,4.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Primary industries,Percentage Change
 PRDA.S3RZPZP,2005.03,6.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Primary industries,Percentage Change
 PRDA.S3RZPZP,2006.03,4.8,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Primary industries,Percentage Change
-PRDA.S3RZPZP,2007.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Primary industries,Percentage Change
 PRDA.S3RZPZP,2008.03,7.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Primary industries,Percentage Change
 PRDA.S3RZPZP,2009.03,4.9,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Primary industries,Percentage Change
 PRDA.S3RZPZP,2010.03,3.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Ratio (used in the capital-labour ratio),Primary industries,Percentage Change
@@ -12477,11 +12419,9 @@ PRDA.S3TAAZP,2009.03,0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3TAAZP,2010.03,-0.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3TAAZP,2011.03,0.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3TAAZP,2012.03,-0.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Agriculture, Forestry and Fishing",Percentage Change
-PRDA.S3TAAZP,2013.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3TAAZP,2014.03,1.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3TAAZP,2015.03,1.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3TAAZP,2016.03,-0.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Agriculture, Forestry and Fishing",Percentage Change
-PRDA.S3TAAZP,2017.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3TAAZP,2018.03,0.9,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3TAAZP,2019.03,0.9,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Agriculture, Forestry and Fishing",Percentage Change
 PRDA.S3TAAZP,2020.03,-0.1,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Agriculture, Forestry and Fishing",Percentage Change
@@ -12716,7 +12656,6 @@ PRDA.S3TDD1P,1981.03,2.1,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3TDD1P,1982.03,3.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3TDD1P,1983.03,1.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3TDD1P,1984.03,1.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Electricity, Gas, Water and Waste Services",Percentage Change
-PRDA.S3TDD1P,1985.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3TDD1P,1986.03,0.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3TDD1P,1987.03,3.3,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Electricity, Gas, Water and Waste Services",Percentage Change
 PRDA.S3TDD1P,1988.03,0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Electricity, Gas, Water and Waste Services",Percentage Change
@@ -12979,7 +12918,6 @@ PRDA.S3TGH1I,2021.03,2008.0,REVISED,Index,0,Productivity Statistics - PRD,Produc
 PRDA.S3TGH1I,2022.03,2059.0,PROVISIONAL,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Retail Trade,Index
 PRDA.S3TGH1P,1979.03,-1.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Retail Trade,Percentage Change
 PRDA.S3TGH1P,1980.03,3.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Retail Trade,Percentage Change
-PRDA.S3TGH1P,1981.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Retail Trade,Percentage Change
 PRDA.S3TGH1P,1982.03,2.7,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Retail Trade,Percentage Change
 PRDA.S3TGH1P,1983.03,2.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Retail Trade,Percentage Change
 PRDA.S3TGH1P,1984.03,3.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Retail Trade,Percentage Change
@@ -13155,7 +13093,6 @@ PRDA.S3TII1I,2019.03,1255.0,REVISED,Index,0,Productivity Statistics - PRD,Produc
 PRDA.S3TII1I,2020.03,1271.0,REVISED,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Transport, Postal and Warehousing",Index
 PRDA.S3TII1I,2021.03,1167.0,REVISED,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Transport, Postal and Warehousing",Index
 PRDA.S3TII1I,2022.03,1198.0,PROVISIONAL,Index,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Transport, Postal and Warehousing",Index
-PRDA.S3TII1P,1979.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Transport, Postal and Warehousing",Percentage Change
 PRDA.S3TII1P,1980.03,-2.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Transport, Postal and Warehousing",Percentage Change
 PRDA.S3TII1P,1981.03,-2.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Transport, Postal and Warehousing",Percentage Change
 PRDA.S3TII1P,1982.03,-0.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,"Transport, Postal and Warehousing",Percentage Change
@@ -14072,7 +14009,6 @@ PRDA.S3TZSZP,1987.03,3.5,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S3TZSZP,1988.03,2.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Service industries,Percentage Change
 PRDA.S3TZSZP,1989.03,0.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Service industries,Percentage Change
 PRDA.S3TZSZP,1990.03,0.8,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Service industries,Percentage Change
-PRDA.S3TZSZP,1991.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Service industries,Percentage Change
 PRDA.S3TZSZP,1992.03,-1.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Service industries,Percentage Change
 PRDA.S3TZSZP,1993.03,0.9,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Service industries,Percentage Change
 PRDA.S3TZSZP,1994.03,1.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Input Series - Industry Level (ANZSIC06),Total,Service industries,Percentage Change
@@ -14172,7 +14108,6 @@ PRDA.S4DMFZP,1999.03,1.4,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S4DMFZP,2000.03,0.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
 PRDA.S4DMFZP,2001.03,0.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
 PRDA.S4DMFZP,2002.03,0.4,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
-PRDA.S4DMFZP,2003.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
 PRDA.S4DMFZP,2004.03,1.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
 PRDA.S4DMFZP,2005.03,0.8,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
 PRDA.S4DMFZP,2006.03,1.5,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
@@ -14186,7 +14121,6 @@ PRDA.S4DMFZP,2013.03,0.8,FINAL,Percent,0,Productivity Statistics - PRD,Productiv
 PRDA.S4DMFZP,2014.03,0.3,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
 PRDA.S4DMFZP,2015.03,0.1,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
 PRDA.S4DMFZP,2016.03,0.6,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
-PRDA.S4DMFZP,2017.03,0.0,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
 PRDA.S4DMFZP,2018.03,0.3,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
 PRDA.S4DMFZP,2019.03,0.2,FINAL,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change
 PRDA.S4DMFZP,2020.03,1.0,REVISED,Percent,0,Productivity Statistics - PRD,Productivity Growth Accounting - Industry Level (ANZSIC06),Deepening,Former Measured Sector,Percentage Change

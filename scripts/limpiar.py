@@ -20,6 +20,7 @@ def __limpiar_datos(dataset):
         mean = dataset[col].mean()
         dataset[col].fillna(mean, inplace=True)
     __eliminar_outlines(columnas_numericas)
+    dataset.drop(dataset[(dataset['Data_value']) == 0].index, axis=0, inplace=True)
 
 def dataframe_original_limpio():
     """Devuelve el conjunto de datos limpio"""
