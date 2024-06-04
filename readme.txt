@@ -20,7 +20,7 @@ Tecnologías utilizadas:
 -Lenguaje de programación Python==3.12.0
 -Entorno de desarrollo integrado PyCharm
 -Editor de texto Visual Studio Code
-*Las librerías de Python utilizadas en el proyecto se encuentran en el archivo requeriments
+*Las librerías de Python utilizadas en el proyecto se encuentran en el archivo requirements
 
 
 Project name: Productivity Statistics Visualization 1.0
@@ -45,4 +45,4 @@ Used technologies:
 -Programming Languaje Python==3.12.0
 -Integrated Development Environment PyCharm
 -Text editor Visual Studio Code
-*The used Python libraries on the project are found in the requeriments file
+*The used Python libraries on the project are found in the requirements file
