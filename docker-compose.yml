@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  estadisticasproductividad:
+    image: estadisticasproductividad
+    build:
+      context: .
+      dockerfile: ./Dockerfile

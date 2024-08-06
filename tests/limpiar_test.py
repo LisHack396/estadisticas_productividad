@@ -1,12 +1,15 @@
 import unittest
 import pandas as pd
 
-def eliminar_outlines(df):
-    columnas_numericas = df.select_dtypes(include='number')
-    low, high = 0.25, 0.75
-    quant_col  = columnas_numericas.quantile([low, high])
-    columnas_numericas = columnas_numericas.apply(lambda valor: valor[(valor > quant_col.loc[low, valor.name]) & (valor < quant_col.loc[high, valor.name])], axis=0)
-    return columnas_numericas
+def eliminar_outliers(df):
+    for columna in df.select_dtypes(include='number').columns:
+        Q1 = df[columna].quantile(0.25)
+        Q3 = df[columna].quantile(0.75)
+        IQR = Q3 - Q1
+        outlier_mask = (df[columna] < (Q1 - 1.5 * IQR)) | (df[columna] > (Q3 + 1.5 * IQR))
+        df = df[~outlier_mask]
+        df.reset_index(drop=True, inplace=True)
+        return df
 
 def limpiar_datos(df):
     cols = df.columns[df.isnull().mean() >= 0.5]
@@ -31,10 +34,13 @@ class EliminarOutlinesTest(unittest.TestCase):
     def test(self):
         print("Ejecutando pruebas de eliminación de outlines")
         df = pd.DataFrame(self.data)
-        cols_num = df.select_dtypes(include="number")
-        cols_num = eliminar_outlines(df)
-        result = pd.DataFrame({"B": [25.19, 34.98], "C": [33.00, 10.67]})
-        pd.testing.assert_frame_equal(cols_num, result)
+        df = eliminar_outliers(df)
+        result = pd.DataFrame({
+            "A": ["A", "B", "C", "E", "F"],
+            "B": [25.19, 34.98, 22.0, 38.88, 9.11], 
+            "C": [33.00, 10.67, 34.52, 98.22, 4.50]
+        })
+        pd.testing.assert_frame_equal(df, result)
     
     def tearDown(self):
         print("Deconstruyendo contexto")

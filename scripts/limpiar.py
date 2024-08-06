@@ -4,24 +4,29 @@ _url_original = "data/raw/productivity-statistics-1978-2022.csv"
 _url_dataset_limpio = "data/clean/productivity-statistics-1978-2022-clean.csv"
 _dataset = pd.read_csv(_url_original)
 
-def eliminar_outlines(columnas_numericas):
+def eliminar_outliers(dataset):
     """Eliminar los valores atipicos"""
-    low, high = 0.25, 0.75
-    quant_col  = columnas_numericas.quantile([low, high])
-    columnas_numericas = columnas_numericas.apply(lambda valor: valor[(valor > quant_col.loc[low, valor.name]) & (valor < quant_col.loc[high, valor.name])], axis=0)
+    for columna in dataset.select_dtypes(include='number').columns:
+        Q1 = dataset[columna].quantile(0.25)
+        Q3 = dataset[columna].quantile(0.75)
+        IQR = Q3 - Q1
+        outlier_mask = (dataset[columna] < (Q1 - 1.5 * IQR)) | (dataset[columna] > (Q3 + 1.5 * IQR))
+        return dataset[~outlier_mask]
 
 def limpiar_datos(dataset):
     """Limpiar el conjunto de datos"""
+    dataset.columns = dataset.columns.str.lower()
+    dataset.drop_duplicates(subset=['series_reference'], keep="first", inplace=True)
     cols = dataset.columns[dataset.isnull().mean() >= 0.5]
     dataset.drop(columns=cols, inplace=True)
     dataset.dropna(axis=0, inplace=True)
+    dataset.drop(dataset[(dataset['data_value']) < 0].index, axis=0, inplace=True)
+    dataset = eliminar_outliers(dataset)
     dataset.reset_index(drop=True, inplace=True)
     columnas_numericas = dataset.select_dtypes(include='number')
     for col in columnas_numericas.columns.to_list():
         mean = dataset[col].mean()
         dataset[col].fillna(mean, inplace=True)
-    eliminar_outlines(columnas_numericas)
-    dataset.drop(dataset[(dataset['Data_value']) <= 0].index, axis=0, inplace=True)
 
 def dataframe_original_limpio():
     """Devuelve el conjunto de datos limpio"""
